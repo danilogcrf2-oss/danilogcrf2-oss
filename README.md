@@ -3,9 +3,9 @@
 </p>
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Traco de PCB Esquerdo -->
-    <td width="50px" valign="top" align="left">
-      <img src="images/pcb-left.svg" width="50px" alt="PCB Left" />
+    <!-- Traco de PCB Esquerdo (Mais largo e com glow de fundo) -->
+    <td width="120px" valign="top" align="left">
+      <img src="images/pcb-left.svg" width="120px" alt="PCB Left" />
     </td>
     <!-- Conteudo Central do Perfil -->
     <td valign="top" align="center">
@@ -22,12 +22,12 @@
         <br />• 🔭 I’m currently working on my personal hobby and IoT projects.
         <br />• 🌱 Studying embedded systems, low-level optimization, and C/C++.
         <br />• 💬 Ask me about: Arduino, ESP32, and DIY hardware.
-        <br />• 📫 How to contact me: danilogcrf2@gmail.com
+        <br />• 📬 How to contact me: danilogcrf2@gmail.com
         <br />• ⚡ Fun fact: I used to think that Arduino uno was better than ESP32 or other MCUs (i was 6)
       </p>
       <h2 align="center">🛠 Languages & skills:</h2>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,arduino,py,vscode,windows,github" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,arduino,py,vscode" alt="Skills" />
       </div>
       <br />
       <!-- Contador de Visualizacoes combinando com o tema -->
@@ -37,9 +37,9 @@
         </a>
       </div>
     </td>
-    <!-- Traco de PCB Direito -->
-    <td width="50px" valign="top" align="right">
-      <img src="images/pcb-right.svg" width="50px" alt="PCB Right" />
+    <!-- Traco de PCB Direito (Mais largo e com glow de fundo) -->
+    <td width="120px" valign="top" align="right">
+      <img src="images/pcb-right.svg" width="120px" alt="PCB Right" />
     </td>
   </tr>
 </table>
