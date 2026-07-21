@@ -29,7 +29,7 @@ I enjoy building software, starting physical automation projects, and tinkering 
 <br /><br />
 <font size="5" color="#00D2FF"><strong>📊 GitHub Dashboard:</strong></font>
 <br /><br />
-<img src="https://github-readme-stats.vercel.app/api?username=danilogcrf2-oss&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=danilogcrf2-oss&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
 <br /><br />
 <font color="#005f73">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
 <br /><br />
