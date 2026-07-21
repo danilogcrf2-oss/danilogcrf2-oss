@@ -16,7 +16,7 @@ I enjoy building software, starting physical automation projects, and tinkering 
 • 🌱 Studying embedded systems, low-level optimization, and C/C++.<br />
 • 💬 Ask me about: Arduino, ESP32, and DIY hardware.<br />
 • 📬 How to contact me: danilogcrf2@gmail.com<br />
-• ⚡ Fun fact: I used to think that Arduino uno was better than ESP32 or other MCUs (i was 6)
+• ⚡ Fun fact: I used to think that Arduino uno was better than ESP32 or other MCUs (i was 6)<br />
 • ⚡ An other fact: I have ADHD, because of that i can take longer to post an update, etc...
 </font>
 <br /><br />
