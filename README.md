@@ -14,7 +14,7 @@ I enjoy building software, starting physical automation projects, and tinkering 
 <font size="3">
 • 🔭 I’m currently working on my personal hobby and IoT projects.<br />
 • 🌱 Studying embedded systems, low-level optimization, and C/C++.<br />
-• 💬 Ask me about: Arduino, ESP32, and DIY hardware.<br />
+• 💬 Ask me about: Arduino, ESP32, Code and DIY hardware.<br />
 • 📬 How to contact me: danilogcrf2@gmail.com<br />
 • ⚡ An fact: I have ADHD, because of that i may take longer to post an update, etc...
 </font>
